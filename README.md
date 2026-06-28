@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
