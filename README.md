@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
 |  |
