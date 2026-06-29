@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0136-single-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
