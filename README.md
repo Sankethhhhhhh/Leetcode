@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0136-single-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sankethhhhhhh/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -115,8 +116,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sankethhhhhhh/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sankethhhhhhh/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sankethhhhhhh/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sankethhhhhhh/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sankethhhhhhh/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
