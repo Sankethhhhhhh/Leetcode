@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
