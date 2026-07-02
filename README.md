@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
