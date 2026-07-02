@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0202-happy-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0202-happy-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
