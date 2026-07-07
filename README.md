@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0015-3sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
