@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sankethhhhhhh/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sankethhhhhhh/Leetcode/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sankethhhhhhh/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
